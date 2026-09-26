@@ -1,2 +1,3 @@
-# HiveMesh
-Blockchain-based honey traceability and smart beekeeping management platform for SIH 2026
+# HiveMesh- From Hive to Consumer
+Blockchain-based honey traceability and smart beekeeping management platform 
+SIH 2026
